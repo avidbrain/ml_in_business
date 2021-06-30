@@ -1,0 +1,7 @@
+notebook
+numpy
+pandas
+scikit-learn
+Flask
+dill
+lightgbm
